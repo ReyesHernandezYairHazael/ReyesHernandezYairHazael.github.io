@@ -35,7 +35,6 @@ ul li {
     list-style: none;
     padding: 20px;
     font-family: 'Inconsolata', monospace;
-    /*font: courier 14px verdana, sans-serif;*/
 }
 
 a {
@@ -71,6 +70,15 @@ p {
 
 .cita {
     text-align: justify;
+}
+
+#contenido a {
+    color: rgba(34, 34, 34, 0.74); 
+    text-decoration: underline;   
+}
+
+#contenido a:hover {
+    color: #FFFFFF;
 }
 
 #comentarios {
