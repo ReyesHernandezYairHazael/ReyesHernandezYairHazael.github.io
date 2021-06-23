@@ -88,9 +88,14 @@ p {
     background: #C9DFE7;
 }
 
+#columna small {
+    font-family: 'Inconsolata', sans-serif;
+}
+
 #audio {
     margin-top: 20px;
     width: 225px;
+    margin-bottom: 20px;
 }
 
 #pie {
