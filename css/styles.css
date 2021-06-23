@@ -92,6 +92,11 @@ p {
     font-family: 'Inconsolata', sans-serif;
 }
 
+#columna img {
+    max-width:100%;
+    height:auto;
+}
+
 #audio {
     margin-top: 20px;
     width: 225px;
