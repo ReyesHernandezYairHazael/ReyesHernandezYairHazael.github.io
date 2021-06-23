@@ -86,7 +86,8 @@ p {
     float: left;
     width: 900px;
     margin: 20px;
-    margin-left: 0px
+    margin-left: 0px;
+    background: #C9DFE7;
 }
 
 #columna {
