@@ -39,7 +39,7 @@ ul li {
 }
 
 a {
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
@@ -69,6 +69,10 @@ p {
     font-size: 25px;
 }
 
+.cita {
+    text-align: justify;
+}
+
 #comentarios {
     float: left;
     width: 900px;
@@ -91,10 +95,13 @@ p {
 
 #pie {
     clear: both;
-    text-align: center;
     width: 1200px;
-    padding: 20px;
-    border-top: 2px solid #C9DFE7;
+    border-top: 5px dashed #C9DFE7;
+}
+
+#pie p {
+    font-family: 'Karla', sans-serif;
+    text-align: center;
 }
 
 
