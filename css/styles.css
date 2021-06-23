@@ -49,8 +49,9 @@ a:hover {
 #contenido {
     float: left;
     width: 900px;
-    margin: 20px;
+    margin-top: -16px;
     margin-left: 0px;
+    margin-bottom: 20px;
     background: #C9DFE7;
 }
 
@@ -91,7 +92,8 @@ p {
 #columna {
     float: left;
     width: 230px;
-    margin: 20px 0px;
+    margin-top: -16px;
+    margin-left: 20px;
     padding: 25px;
     background: #C9DFE7;
 }
