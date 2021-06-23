@@ -82,6 +82,26 @@ p {
     color: #FFFFFF;
 }
 
+.glosario{
+    text-justify: inter-word;
+    margin-left: 50px;
+    text-align: justify;
+    margin-bottom: 65px;
+    margin-top: 65px;
+}
+
+.glosario p,dt {
+    font-weight: bold;
+}
+
+.glosario dl,dd {
+    font-size: .9rem;
+}
+
+.glosario dd {
+    margin-bottom: 1em;
+}
+
 #comentarios {
     float: left;
     width: 900px;
