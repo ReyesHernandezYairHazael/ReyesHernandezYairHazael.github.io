@@ -85,9 +85,12 @@ p {
 #comentarios {
     float: left;
     width: 900px;
-    margin: 20px;
-    margin-left: 0px;
-    background: #C9DFE7;
+    margin-top: 10px;
+    margin-left: 0px
+}
+
+#comentarios a {
+    color: #000;
 }
 
 #columna {
