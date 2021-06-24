@@ -101,6 +101,10 @@ p {
     margin-bottom: 1em;
 }
 
+.cita ul li {
+    margin-left: 5em;
+}
+
 #comentarios {
     float: left;
     width: 900px;
